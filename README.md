@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @27-ritik
-- 👀 I’m interested in problem solving of Data Structre and Algorithm , MERN Developer and analysing and researching stock market to know how market works ...
-- 🌱 I’m currently learning MERN Developer
-
+- 👀 I’m interested in problem-solving Data Structure and Algorithm, MERN Developer, and analyzing and researching the stock market to know how market works ...
+- 🌱 I’m a MERN Developer and finalist of Smart India Hackathon
+ 
 
 <!---
 27-ritik/27-ritik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
